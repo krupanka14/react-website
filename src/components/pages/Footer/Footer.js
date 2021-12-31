@@ -13,7 +13,7 @@ import { MdFingerprint } from 'react-icons/md';
         <div className='footer-container'>
             <section className='footer-subsription'>
                 <p className ='footer-subscription-heading'>
-                    Join our exclusive membership to receive the latest news and trends
+                    Join our exclusive membership to receive the latest news and trends in detail
                 </p>
                 <p className='footer-subscription-text'>
                     you can unsubscribe at any time.
