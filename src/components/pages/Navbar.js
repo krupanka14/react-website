@@ -35,7 +35,7 @@ function Navbar() {
              {/* Logo */}
                 <Link to ='/' className ="navbar-logo"  onClick={closeMobileMenu}>
                     <MdFingerprint className='navbar-icon' />
-                    KRUJOY
+                    KRUPAJOY
                 </Link>
                  {/* Nav-Bar Handle Click */}
                 <div className="menu-icon" onClick={handleClick}>
