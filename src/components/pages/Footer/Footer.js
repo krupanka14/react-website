@@ -16,7 +16,7 @@ import { MdFingerprint } from 'react-icons/md';
                     Join our exclusive membership to receive the latest news and trends in detail
                 </p>
                 <p className='footer-subscription-text'>
-                    you can unsubscribe at any time.
+                    you can unsubscribe at any time on click of it.
                 </p>
                 <div className='input-areas'>
                     <form>
